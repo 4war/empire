@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportStore", "SportStore\SportStore.csproj", "{BDB263ED-9A96-4CA5-944A-70BC88834C1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportStore.Tests", "SportStore.Tests\SportStore.Tests.csproj", "{D28146E7-C7F5-4FC5-B89D-CD894D13AEBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDB263ED-9A96-4CA5-944A-70BC88834C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB263ED-9A96-4CA5-944A-70BC88834C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB263ED-9A96-4CA5-944A-70BC88834C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB263ED-9A96-4CA5-944A-70BC88834C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D28146E7-C7F5-4FC5-B89D-CD894D13AEBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D28146E7-C7F5-4FC5-B89D-CD894D13AEBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D28146E7-C7F5-4FC5-B89D-CD894D13AEBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D28146E7-C7F5-4FC5-B89D-CD894D13AEBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
