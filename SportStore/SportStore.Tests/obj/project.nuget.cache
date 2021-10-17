@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NiUOaIlUmql4YTq46qa1/FiqTsfBmJmxILUm6BV3nON6305xRQ5A1DUp9nBWknbam42IDHIDHX4jKLipjC1zWw==",
+  "dgSpecHash": "En0vIZ4SmiAEt0LG78AphAl3GeEDnjifuOm9L4xo/eNrnCWMJroK8v2Ygv9NTXxyMpDuMED/vgK70NDx/Oixug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fedro\\Рабочий стол\\Web\\Desperation\\SportStore\\SportStore.Tests\\SportStore.Tests.csproj",
+  "projectFilePath": "C:\\Users\\fedro\\OneDrive\\Документы\\GitHub\\empire\\SportStore\\SportStore.Tests\\SportStore.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fedro\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\fedro\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",

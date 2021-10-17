@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fedro\\Рабочий стол\\Web\\Desperation\\SportStore\\SportStore.Tests\\SportStore.Tests.csproj": {}
+    "C:\\Users\\fedro\\OneDrive\\Документы\\GitHub\\empire\\SportStore\\SportStore.Tests\\SportStore.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fedro\\Рабочий стол\\Web\\Desperation\\SportStore\\SportStore.Tests\\SportStore.Tests.csproj": {
+    "C:\\Users\\fedro\\OneDrive\\Документы\\GitHub\\empire\\SportStore\\SportStore.Tests\\SportStore.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fedro\\Рабочий стол\\Web\\Desperation\\SportStore\\SportStore.Tests\\SportStore.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\fedro\\OneDrive\\Документы\\GitHub\\empire\\SportStore\\SportStore.Tests\\SportStore.Tests.csproj",
         "projectName": "SportStore.Tests",
-        "projectPath": "C:\\Users\\fedro\\Рабочий стол\\Web\\Desperation\\SportStore\\SportStore.Tests\\SportStore.Tests.csproj",
+        "projectPath": "C:\\Users\\fedro\\OneDrive\\Документы\\GitHub\\empire\\SportStore\\SportStore.Tests\\SportStore.Tests.csproj",
         "packagesPath": "C:\\Users\\fedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fedro\\Рабочий стол\\Web\\Desperation\\SportStore\\SportStore.Tests\\obj\\",
+        "outputPath": "C:\\Users\\fedro\\OneDrive\\Документы\\GitHub\\empire\\SportStore\\SportStore.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,8 +34,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\fedro\\Рабочий стол\\Web\\Desperation\\SportStore\\SportStore\\SportStore.csproj": {
-                "projectPath": "C:\\Users\\fedro\\Рабочий стол\\Web\\Desperation\\SportStore\\SportStore\\SportStore.csproj"
+              "C:\\Users\\fedro\\OneDrive\\Документы\\GitHub\\empire\\SportStore\\SportStore\\SportStore.csproj": {
+                "projectPath": "C:\\Users\\fedro\\OneDrive\\Документы\\GitHub\\empire\\SportStore\\SportStore\\SportStore.csproj"
               }
             }
           }
@@ -109,14 +109,14 @@
         }
       }
     },
-    "C:\\Users\\fedro\\Рабочий стол\\Web\\Desperation\\SportStore\\SportStore\\SportStore.csproj": {
+    "C:\\Users\\fedro\\OneDrive\\Документы\\GitHub\\empire\\SportStore\\SportStore\\SportStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fedro\\Рабочий стол\\Web\\Desperation\\SportStore\\SportStore\\SportStore.csproj",
+        "projectUniqueName": "C:\\Users\\fedro\\OneDrive\\Документы\\GitHub\\empire\\SportStore\\SportStore\\SportStore.csproj",
         "projectName": "SportStore",
-        "projectPath": "C:\\Users\\fedro\\Рабочий стол\\Web\\Desperation\\SportStore\\SportStore\\SportStore.csproj",
+        "projectPath": "C:\\Users\\fedro\\OneDrive\\Документы\\GitHub\\empire\\SportStore\\SportStore\\SportStore.csproj",
         "packagesPath": "C:\\Users\\fedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fedro\\Рабочий стол\\Web\\Desperation\\SportStore\\SportStore\\obj\\",
+        "outputPath": "C:\\Users\\fedro\\OneDrive\\Документы\\GitHub\\empire\\SportStore\\SportStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
